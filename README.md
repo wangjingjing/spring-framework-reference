@@ -1,3 +1,3 @@
-# spring-framework-reference
+# Spring Framework Reference Documentation
 
-《Spring参考指南》**4.2.3.RELEASE**
+《Spring参考文档》**4.2.3.RELEASE**
