@@ -38,6 +38,8 @@
 * [IV. 测试](IV. Testing/README.md)
     * [12. Spring测试介绍](IV. Testing/12. Introduction to Spring Testing.md)
     * [13. 单元测试](IV. Testing/13. Unit Testing.md)
-      * [13.1 Mock对象](IV. Testing/13.1. Mock Objects.md)
+      * [13.1 Mock对象](IV. Testing/13.1 Mock Objects.md)
+      * [13.2 支持单元测试的类](IV. Testing/13.2. Unit Testing support Classes.md)
+    * [14. 集成测试](IV. Testing/14. Integration Testing.md)
 * [V. 数据访问](V. Data Access/README.md)
 
