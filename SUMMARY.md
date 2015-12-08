@@ -35,6 +35,7 @@
 * [III. 核心技术](III. Core Technologies/README.md)
     * [6. IoC容器](III. Core Technologies/6. The IoC container.md)
       * [6.1 Spring容器和bean简介](III. Core Technologies/6.1. Introduction to the Spring IoC container and beans.md)
+      * [6.2 容器概览](III. Core Technologies/6.2. Container overview.md)
 * [IV. 测试](IV. Testing/README.md)
     * [12. Spring测试介绍](IV. Testing/12. Introduction to Spring Testing.md)
     * [13. 单元测试](IV. Testing/13. Unit Testing.md)
