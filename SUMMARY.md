@@ -45,6 +45,7 @@
       * [6.2.1 配置元数据](III. Core Technologies/6.2.1. Configuration metadata.md)
       * [6.2.2 实例化容器](III. Core Technologies/6.2.2. Instantiating a container.md)
       * [6.2.3 使用容器](III. Core Technologies/6.2.3. Using the container.md)
+    * [6.3 bean概览](III. Core Technologies/6.3. Bean overview.md)
 * [IV. 测试](IV. Testing/README.md)
   * [12. Spring测试介绍](IV. Testing/12. Introduction to Spring Testing.md)
   * [13. 单元测试](IV. Testing/13. Unit Testing.md)
