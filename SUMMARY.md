@@ -12,7 +12,7 @@
       * [2.2.5 Web](I. Overview of Spring Framework/2.2. Modules.md)
       * [2.2.6 测试](I. Overview of Spring Framework/2.2. Modules.md)
     * [2.3 使用场景](I. Overview of Spring Framework/2.3. Usage scenarios.md)
-      * [2.3.1 依赖管理和命名约定](I. Overview of Spring Framework/2.3.1 Dependency Management and Naming Conventions.md)
+      * [2.3.1 依赖管理和命名规约](I. Overview of Spring Framework/2.3.1 Dependency Management and Naming Conventions.md)
       * [2.3.2 日志](I. Overview of Spring Framework/2.3.2 Logging.md)
 * [II. Spring框架4.x版中的新特性](II. What’s New in Spring Framework 4.x/README.md)
   * 3. New Features and Enhancements in Spring Framework 4.0
