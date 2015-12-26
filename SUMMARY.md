@@ -61,6 +61,7 @@
       * [14.2.2 测试固件的依赖注入](IV. Testing/14.2. Goals of INtegration Testing.md)
       * [14.2.3 事务管理](IV. Testing/14.2. Goals of INtegration Testing.md)
       * [14.2.4 支持集成测试的类](IV. Testing/14.2. Goals of INtegration Testing.md)
+    * [14.3 JDBC测试支持](IV. Testing/14.3. JDBC Testing Support.md)
 * [V. 数据访问](V. Data Access/README.md)
   * [16. 事务管理](V. Data Access/16. Transaction Management.md)
     * [16.1 Spring框架事务管理介绍](V. Data Access/16.1. Introduction to Spring Framework transaction management.md)
