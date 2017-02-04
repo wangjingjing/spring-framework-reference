@@ -72,6 +72,7 @@
             * [15.2.3 事务管理](IV. Testing/15.2. Goals of INtegration Testing.md)
             * [15.2.4 支持集成测试的类](IV. Testing/15.2. Goals of INtegration Testing.md)
         * [15.3 JDBC测试支持](IV. Testing/15.3. JDBC Testing Support.md)
+        * [15.4 注解](IV. Testing/15.4. Annotations.md)
 * [V. 数据访问](V. Data Access/README.md)
     * [17. 事务管理](V. Data Access/17. Transaction Management.md)
         * [17.1 Spring框架事务管理介绍](V. Data Access/17.1. Introduction to Spring Framework transaction management.md)
