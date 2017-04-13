@@ -60,6 +60,7 @@
         * [7.4 依赖](III. Core Technologies/7.4. Dependencies.md)
             * [7.4.1 依赖注入](III. Core Technologies/7.4.1. Dependency Injection.md)
             * [7.4.2 依赖和配置的细节](III. Core Technologies/7.4.2. Dependencies and configuration in detail.md)
+            * [7.4.3 使用depends-on](III. Core Technologies/7.4.3. Using depends-on.md)
 * [IV. 测试](IV. Testing/README.md)
     * [13. Spring测试介绍](IV. Testing/13. Introduction to Spring Testing.md)
     * [14. 单元测试](IV. Testing/14. Unit Testing.md)
