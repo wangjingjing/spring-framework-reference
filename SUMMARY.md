@@ -89,3 +89,5 @@
             * [22.1.1 Spring Web MVC的特性](VI. The Web/22.1.1. Features of Spring Web MVC.md)
             * [22.1.2 其他MVC实现的可插拔性](VI. The Web/22.1.2. Pluggability of other MVC implementations.md)
         * [22.2 DispatcherServlet](VI. The Web/22.2. The DispatcherServlet.md)
+            * [22.2.1 WebApplicationContext中的特殊Bean类型](VI. The Web/22.2.1. Special Bean Types In the WebApplicationContext.md)
+            * [22.2.2 默认DispatcherServlet配置](VI. The Web/22.2.2. Default DispatcherServlet Configuration.md)
