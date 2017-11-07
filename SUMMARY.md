@@ -13,6 +13,7 @@
             * [2.2.6 测试](I.Overview_of_Spring_Framework/2.2.Framework_Modules.md#226-测试)
         * [2.3 使用场景](I.Overview_of_Spring_Framework/2.3.Usage_scenarios.md)
             * [2.3.1 依赖管理和命名规约](I.Overview_of_Spring_Framework/2.3.1Dependency_Management_and_Naming_Conventions.md)
+            * [      Spring的依赖和依赖于Spring](I.Overview_of_Spring_Framework/2.3.1Dependency_Management_and_Naming_Conventions.md#Spring的依赖和依赖于Spring)
             * [2.3.2 日志](I.Overview_of_Spring_Framework/2.3.2Logging.md)
 * [II. Spring Framework 4.x版中的新特性](II.What’s_New_in_Spring_Framework_4.x/README.md)
     * [3. New Features and Enhancements in Spring Framework 4.0](https://docs.spring.io/spring/docs/4.3.12.RELEASE/spring-framework-reference/htmlsingle/#new-in-4.0)
