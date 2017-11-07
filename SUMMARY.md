@@ -1,8 +1,8 @@
 # 目录
 
-* [I. Spring框架概览](I.Overview_of_Spring_Framework/README.md)
+* [I. Spring Framework概览](I.Overview_of_Spring_Framework/README.md)
     * [1. Spring入门](I.Overview_of_Spring_Framework/1.Getting_Started_with_Spring.md)
-    * [2. Spring框架介绍](I.Overview_of_Spring_Framework/2.Introduction_to_the_Spring_Framework.md)
+    * [2. Spring Framework介绍](I.Overview_of_Spring_Framework/2.Introduction_to_the_Spring_Framework.md)
         * [2.1 依赖注入和控制反转](I.Overview_of_Spring_Framework/2.1.Dependency_Injection_and_Inversion_of_Control.md)
         * [2.2 模块](I.Overview_of_Spring_Framework/2.2.Framework_Modules.md)
             * [2.2.1 核心容器](I.Overview_of_Spring_Framework/2.2.Framework_Modules.md#221-核心容器)
@@ -14,7 +14,7 @@
         * [2.3 使用场景](I.Overview_of_Spring_Framework/2.3.Usage_scenarios.md)
             * [2.3.1 依赖管理和命名规约](I.Overview_of_Spring_Framework/2.3.1Dependency_Management_and_Naming_Conventions.md)
             * [2.3.2 日志](I.Overview_of_Spring_Framework/2.3.2Logging.md)
-* [II. Spring框架4.x版中的新特性](II.What’s_New_in_Spring_Framework_4.x/README.md)
+* [II. Spring Framework 4.x版中的新特性](II.What’s_New_in_Spring_Framework_4.x/README.md)
     * [3. New Features and Enhancements in Spring Framework 4.0](https://docs.spring.io/spring/docs/4.3.12.RELEASE/spring-framework-reference/htmlsingle/#new-in-4.0)
         * 3.1. Improved Getting Started Experience
         * 3.2. Removed Deprecated Packages and Methods
@@ -51,7 +51,7 @@
     * [7. IoC容器](III.Core_Technologies/7.The_IoC_container.md)
         * [7.1 Spring容器和bean简介](III.Core_Technologies/7.1.Introduction_to_the_Spring_IoC_container_and_beans.md)
         * [7.2 容器概览](III.Core_Technologies/7.2.Container_overview.md)
-            * [7.2.1 配置元数据](III.Core_Technologies/7.2.1. onfiguration_metadata.md)
+            * [7.2.1 配置元数据](III.Core_Technologies/7.2.1.Configuration_metadata.md)
             * [7.2.2 实例化容器](III.Core_Technologies/7.2.2.Instantiating_a_container.md)
             * [7.2.3 使用容器](III.Core_Technologies/7.2.3.Using_the_container.md)
         * [7.3 bean概览](III.Core_Technologies/7.3.Bean_overview.md)
@@ -78,11 +78,11 @@
         * [15.4 注解](IV.Testing/15.4.Annotations.md)
 * [V. 数据访问](V.Data_Access/README.md)
     * [17. 事务管理](V.Data_Access/17.Transaction_Management.md)
-        * [17.1 Spring框架事务管理介绍](V.Data_Access/17.1.Introduction_to_Spring_Framework_transaction_management.md)
-        * [17.2 Spring框架的事务支持模型的优点](V.Data_Access/17.2.Advantages_of_the_Spring_Framework's_transaction_support_model.md)
+        * [17.1 Spring Framework事务管理介绍](V.Data_Access/17.1.Introduction_to_Spring_Framework_transaction_management.md)
+        * [17.2 Spring Framework的事务支持模型的优点](V.Data_Access/17.2.Advantages_of_the_Spring_Framework's_transaction_support_model.md)
             * [17.2.1 全局事务](V.Data_Access/17.2.Advantages_of_the_Spring_Framework's_transaction_support_model.md/#1721-全局事务)
             * [17.2.2 本地事务](V.Data_Access/17.2.Advantages_of_the_Spring_Framework's_transaction_support_model.md/1722-本地事务)
-            * [17.2.3 Spring框架的一致性编程模型](V.Data_Access/17.2.Advantages_of_the_Spring_Framework's_transaction_support_model.md/#1723-Spring框架的一致性编程模型)
+            * [17.2.3 Spring Framework的一致性编程模型](V.Data_Access/17.2.Advantages_of_the_Spring_Framework's_transaction_support_model.md/#1723-Spring-Framework的一致性编程模型)
 * [VI. Web](VI.The_Web/README.md)
     * [22. Web MVC框架](VI.The_Web/22.Web_MVC_framework.md)
         * [22.1 Spring Web MVC框架介绍](VI.The_Web/22.1.Introduction_to_Spring_Web_MVC_framework.md)
