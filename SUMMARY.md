@@ -65,7 +65,7 @@
             * [7.2.1 配置元数据](III.Core_Technologies/7.2.1.Configuration_metadata.md)
             * [7.2.2 实例化容器](III.Core_Technologies/7.2.2.Instantiating_a_container.md)
                 * [编写基于XML的配置元数据](III.Core_Technologies/7.2.2.Instantiating_a_container.md#编写基于xml的配置元数据)
-                * [编写基于XML的配置元数据](III.Core_Technologies/7.2.2.Instantiating_a_container.md#groovy-bean定义dsl)
+                * [Groovy Bean定义DSL](III.Core_Technologies/7.2.2.Instantiating_a_container.md#groovy-bean定义dsl)
             * [7.2.3 使用容器](III.Core_Technologies/7.2.3.Using_the_container.md)
         * [7.3 bean概览](III.Core_Technologies/7.3.Bean_overview.md)
             * [7.3.1 bean命名](III.Core_Technologies/7.3.1.Naming_beans.md)
