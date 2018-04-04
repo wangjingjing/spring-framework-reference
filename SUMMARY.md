@@ -132,3 +132,4 @@
         * [22.2 DispatcherServlet](VI.The_Web/22.2.The_DispatcherServlet.md)
             * [22.2.1 WebApplicationContext中的特殊Bean类型](VI.The_Web/22.2.1.Special_Bean_Types_In_the_WebApplicationContext.md)
             * [22.2.2 默认DispatcherServlet配置](VI.The_Web/22.2.2.Default_DispatcherServlet_Configuration.md)
+            * [22.2.3 DispatcherServlet的处理顺序](VI.The_Web/22.2.3.DispatcherServlet_Processing_Sequence.md)
